@@ -14,4 +14,7 @@ Each week's material is released in its own folder (`01`, `02`, ...) as the cour
 - the **lecture slides** for that week, and
 - the **exercise notebooks** (Jupyter notebooks, `.ipynb`) that you work through during the lecture practical.
 
+The **solutions** for the exercises will be released after each week's lecture.
+
 The notebooks are designed to be run in Noteable; the first lecture explains how to open this repository there.
+
